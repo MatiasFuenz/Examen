@@ -15,6 +15,8 @@ stock = {'8475HD': [387990,10], '2175HD': [327990,4], 'JjfFHD': [424990,1],
 
 #Primer cambio o commit.
 
+#Segundo cambio o commit.
+
 def menu():
     print('***MENU PRINCIPAL***')
     print('1.- Stock marca.')
